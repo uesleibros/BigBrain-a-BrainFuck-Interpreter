@@ -13,4 +13,10 @@ Command: ~
 ##
 Command: ÷
 > This command remove 15 bytes from memory.
+
+## How to Run?
+> After you stay in directory, in terminal you type:
+```shell
+py main.py
+```
 </div>
