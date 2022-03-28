@@ -19,4 +19,5 @@ Command: ÷
 ```shell
 py main.py
 ```
+> Into `/BrainFuck/` you have a `test.bfk` file, you just write your BrainFuck code, save and run.
 </div>
