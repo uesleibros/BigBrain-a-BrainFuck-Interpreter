@@ -51,7 +51,7 @@ def run_interpreter(filename=""):
     BRAIN_RCASE = ']'
     	
     if not filename.endswith(('.b', '.bfk', '.bf', '.brainf', '.fuck')):
-    	print(f"BigBrain[Interpreter FileSys]: A extension (.{filename.split('.')[-1]}) is not supported, Supported extensions: [.b, .bfk, .bf, brainf, fuck].")
+    	print(f"BigBrain[Interpreter FileSys]: A extension (.{filename.split('.')[-1]}) is not supported, Supported extensions: [.b, .bfk, .bf, .brainf, .fuck].")
     	sys.exit(0)
 
     try:
