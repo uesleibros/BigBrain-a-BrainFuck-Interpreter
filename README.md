@@ -11,7 +11,7 @@ This is a Sample BrainFuck Interpreter made 100% in Python.
 Command: ~
 > This command add 15 bytes to memory.
 ##
-Command: ÷
+Command: /
 > This command remove 15 bytes from memory.
 
 ## How to Run?
