@@ -1,7 +1,7 @@
 <div align="center">
 <h1>BigBrain - BrainFuck Interpreter</h1>
 <p>
-This is a Sample BrainFuck Interpreter made 100% in Python.
+This is a Simple BrainFuck Interpreter made 100% in Python.
 </p>
 
 ## What's New?
