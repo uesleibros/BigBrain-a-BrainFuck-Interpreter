@@ -25,7 +25,7 @@ loop_stack = {}
 loop_table = []
 debbuger = True
 
-def Debbuger(deb):
+def Debug(deb):
 	global debbuger
 	debbuger = deb
 
